@@ -2,13 +2,13 @@
 
 
 :root {
-    --cor-de-fundo: #cc55c2f6;
+    --cor-de-fundo: #bd007ef6;
     --verde: #d4a3b8a2;
     --branco: #ffffff;
     --botao-ativo: #ac0466;
     --botao-inativo: rgba(2, 0, 19, 0.5);
     --botao-ativo: #ac0466;
-    --texto-fundo: #000000(212, 97, 178, 0.842);
+    --texto-fundo: #da077b(212, 97, 178, 0.842);
 }
 
 body {
