@@ -7,7 +7,8 @@
     --branco: #9e9e9e;
     --botao-ativo: #ac0466;
     --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(212, 97, 178, 0.842);
+    --botao-ativo: #ac0466;
+    --texto-fundo: #ac0466;(212, 97, 178, 0.842);
 }
 
 body {
